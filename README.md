@@ -16,7 +16,7 @@ An interactive birthday wish website built using HTML, CSS, and JavaScript. This
 
 ## 🚀 Live Preview
 
-*(https://b-dey-raushni.netlify.app/)*
+*https://b-dey-raushni.netlify.app/*
 
 ---
 
